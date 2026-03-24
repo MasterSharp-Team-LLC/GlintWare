@@ -1,0 +1,13 @@
+define -PNIE Package_Native_Injectable_Executable
+open -PNIE Manifest; GlintWare
+
+Package_Native_Injectable_Executable(GlintWare)
+        # PNIE-Name: GlintWare
+        # PNIE-Version: 1.0.0
+        # PNIE-Author: MasterSharp Team LLC.
+        # PNIE-Privilege: Require_Administrator
+        # PNIE-TARGET_LIBS: @"./references/"
+        # PNIE-Batch: @"./launch.bat"
+        # PNIE-PowerShell: @"./glintware.ps1"
+
+end
