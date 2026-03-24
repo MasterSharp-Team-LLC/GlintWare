@@ -5,5 +5,6 @@ GlintWare is a free tool projected to detect any changes that occurred after a W
 Have you noticed our funny format called **PNIE**? It was made to set us apart and we are proud of it. If you're wondering how you can open this file, don't worry, it's just a zip...
 # How i use this?
 You have only to open this file with a zip program like Winrar or 7zip. Than you have to extract the file content and start **GlintWare.bat** and the rest will take care of itself. You have to accept the UAC
-# Do you want to donate us...
-Yes, you can donate us a litle amount to help us. To donate you can add me on Discord @85cs
+# Contacts
+Do you have some issues or wou want to donate us? There are some social where you can find us
+![]
