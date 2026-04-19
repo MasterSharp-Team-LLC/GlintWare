@@ -6,4 +6,4 @@ Have you noticed our funny format called **PNIE**? It was made to set us apart a
 # How i use this?
 You have only to open this file with a zip program like Winrar or 7zip. Than you have to extract the file content and start **GlintWare.bat** and the rest will take care of itself. You have to accept the UAC
 # Contacts
-Do you have some issues or wou want to donate us? You can find us on [Discord](https://discord.gg/SStfFZwt3U)
+Do you have some issues or wou want to donate us? You can find us on [Discord](https://discord.gg/JGPNZ63ey6)
