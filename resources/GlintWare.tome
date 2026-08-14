@@ -1,7 +1,7 @@
-define -PNIE Package_Native_Injectable_Executable
-open -PNIE Manifest; GlintWare
+define -PNIE GlintWare()
+open PNIE GlintWare.tome; GlintWare
 
-Package_Native_Injectable_Executable(GlintWare)
+Package(GlintWare)
         # PNIE-Name: GlintWare
         # PNIE-Version: 1.0.0
         # PNIE-Author: MasterSharp Team LLC.
